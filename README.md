@@ -1,6 +1,6 @@
 # Azure OSS DB SKU Recommender (ODSR)
 
-The OSS DB SKU Recommender (ODSR) project is part of a larger collaborative effort to provide best practices for migrating PostgreSQL, MySQL and MariaDB workloads to Azure. At its core, the goal of this project is to users to complete OSS DB migration scenarios in less time. 
+The OSS DB SKU Recommender (ODSR) project is part of a larger [collaborative effort](https://github.com/izzymsft/OSSDatabaseMigrationHackathon) to provide best practices for migrating PostgreSQL, MySQL and MariaDB workloads to Azure via a challenge-based training event. At its core, the goal of this project is to users to complete OSS DB migration scenarios in less time. 
 
 ODSR enables users to migrate their OSS database installations to Azure with very little to no support when it comes to determining the equivalent SKU in Azure that will be compatible with the current data workload prior to migrating to Azure. 
 
