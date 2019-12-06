@@ -4,7 +4,7 @@ The OSS DB SKU Recommender (ODSR) project is part of a larger [collaborative eff
 
 ODSR enables users to migrate their OSS database installations to Azure with very little to no support when it comes to determining the equivalent SKU in Azure that will be compatible with the current data workload prior to migrating to Azure. 
 
-It optimizes the migration operations while supplementing existing tools leveraged during OSS database migrations to Azure.
+It optimizes the migration operations while supplementing existing [tools](https://azure.microsoft.com/en-us/services/database-migration/) and [processes](https://datamigration.microsoft.com/) leveraged during OSS database migrations to Azure.
 
 ![alt text](ODSR.png "Azure OSS DB SKU Recommender ")
 
